@@ -1,0 +1,7 @@
+# temporary files
+*.tmp
+
+# still in development
+*.dev
+
+
