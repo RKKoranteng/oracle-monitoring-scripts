@@ -1,5 +1,6 @@
 # name: monitor_oms.sh
 # desc: monitor if oracle management service (oms) is running
+# auth: Richard Koranteng (rkkoranteng.com)
 # ---
 #!/bin/bash
 

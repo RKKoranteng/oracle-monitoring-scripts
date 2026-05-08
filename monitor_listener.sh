@@ -1,5 +1,6 @@
 # name: monitor_listener.sh
 # desc: monitor if listener service is running
+# auth: Richard Koranteng (rkkoranteng.com)
 # ---
 #!/bin/bash
 

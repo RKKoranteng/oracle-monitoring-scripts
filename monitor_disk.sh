@@ -1,5 +1,6 @@
 # name: monitor_disk.sh
 # desc: monitors disk utilization
+# auth: Richard Koranteng (rkkoranteng.com)
 # ---
 #!/bin/bash
 
