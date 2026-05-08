@@ -3,11 +3,15 @@
 This repo contains scripts for monitoring Oracle database. See [CHANGELOG.md](CHANGELOG.md) for all notable changes in this project.
 
 ## Monitored Components
-* Database Instance
-* Database Listener 
-* Oracle Management Service for OEM
+
+| Function | Component | What it monitors |
+|---|---|---|
+| **Database** | [Instance](monitor_database.sh) | Database instance status |
+| | [Listener](monitor_listener.sh) | Listener status |
+| **OEM** | [OMS](monitor_oms.sh) | Enterprise Manager → Oracle Management Services |
 
 ## Commit Prefix
+
 * `add`: add something (module, feature, etc)
 * `del`: remove something (module, feature, etc)
 * `doc`: documentation only
