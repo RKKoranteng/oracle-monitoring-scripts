@@ -34,3 +34,13 @@ oracle-monitoring-scripts/
 * `upd`: update existing code/config
 * `ren`: rename files/modukes
 
+## Versioning
+This project uses [Semantic Versioning (SemVer)](https://semver.org/spec/v2.0.0.html).
+
+Format: `MAJOR.MINOR.PATCH`
+
+| Version Part | When it Changed | Example |
+|---|---|---|
+| **MAJOR** | Breaking changes that require users to modify configs or usage | `2.0.0` |
+| **MINOR** | New features added in a backward-compatible way | `1.1.0` |
+| **PATCH** | Bug fixes, documentation updates, small improvements | `1.1.1` |
