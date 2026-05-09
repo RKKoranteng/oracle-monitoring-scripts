@@ -1,7 +1,7 @@
 #!/bin/bash
 #########################################################################################################################
 ##                                      Oracle Monitoring Config Parameter File                                        ##
-##                                 version 1.0 | Richard Koranteng (rkkoranteng.com)                                   ##
+##                                 version 0.1 | Richard Koranteng (rkkoranteng.com)                                   ##
 ##                                                                                                                     ##                                                                               
 ##  - specify values for the variables listed below to customize                                                       ##
 ##  - each variable is associated with a comment to populate the variables with the appropriatE values                 ##
