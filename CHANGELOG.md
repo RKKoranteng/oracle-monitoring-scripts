@@ -10,3 +10,5 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 - Improved listener status detection
+
+### Removed
