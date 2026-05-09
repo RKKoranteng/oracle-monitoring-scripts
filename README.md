@@ -34,13 +34,11 @@ oracle-monitoring-scripts/
 
 ## Commit Prefix
 
-* `add`: add something (module, feature, etc)
-* `del`: remove something (module, feature, etc)
+* `add`: adding new feature
+* `del`: remove existing feature
 * `doc`: documentation only
+* `ref`: code restructuring without changing behavior
 * `fix`: bug fixes
 * `upd`: update existing code/config
 * `ren`: rename files/modukes
-
-
-
 
