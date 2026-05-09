@@ -1,7 +1,7 @@
 #!/bin/bash
 #########################################################################################################################
 ##                                      Oracle Monitoring Config Parameter File                                        ##
-##                                 version 0.1 | Richard Koranteng (rkkoranteng.com)                                   ##
+##                                        Richard Koranteng (rkkoranteng.com)                                          ##
 ##                                                                                                                     ##                                                                               
 ##  - specify values for the variables listed below to customize                                                       ##
 ##  - each variable is associated with a comment to populate the variables with the appropriatE values                 ##
@@ -10,6 +10,7 @@
 #------------------------------------------------------------------------------------------------------------------------
 # do not change the following system generated value(s) and configs
 DATE_TIME=`date +"%m%d%y_%H%M"`
+CONFIG_VERSION='1.2.0'
 #------------------------------------------------------------------------------------------------------------------------
 
 #------------------------------------------------------------------------------------------------------------------------
