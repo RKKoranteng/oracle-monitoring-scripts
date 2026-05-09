@@ -10,6 +10,28 @@ This repo contains scripts for monitoring Oracle database. See [CHANGELOG.md](CH
 | | [Listener](monitor_listener.sh) | Listener status |
 | **OEM** | [OMS](monitor_oms.sh) | Enterprise Manager → Oracle Management Services |
 
+## Repository Structure
+
+```text
+oracle-monitoring-scripts/
+│
+├── scripts/
+│   ├── monitor_database.sh
+│   ├── monitor_listener.sh
+│   └── monitor_oms.sh
+│
+├── config/
+│   └── env_config.rsp
+│
+├── docs/
+│   └── CHANGELOG.md
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+└── setup.sh
+```
+
 ## Commit Prefix
 
 * `add`: add something (module, feature, etc)
