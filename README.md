@@ -15,7 +15,7 @@ This repo contains scripts for monitoring Oracle database. See [CHANGELOG.md](CH
 ```text
 oracle-monitoring-scripts/
 │
-├──monitor_*.sh
+├── monitor_*.sh
 ├── env_config.rsp│
 ├── CHANGELOG.md
 ├── .gitignore
